@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1eqyy7U+nM2YBclY5eq3EwwGaDUrXmlgvYUJTSmvdj0=",
+  "Source": "azureBlobStorage",
+  "BasePath": "_content/azureBlobStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
